@@ -1,5 +1,9 @@
 # Python Data Science: Day 1
 
+General Assembly Santa Monica  
+Saturday October 17, 2015 10:00 - 17:00  
+Craig Sakuma
+
 ## Overview of Data Science
 
 ### What is Data Science?
@@ -20,12 +24,10 @@ more.
 
 ### OSEMN (Awesome)
 
-  - Obtain data
-  - Scrub data
-  - Explore data
-  - Model algorithms
-  - iNterpret results
+  - **O**btain data
+  - **S**crub data
+  - **E**xplore data
+  - **M**odel algorithms
+  - i**N**terpret results
 
 80% of time on OSE, 20% on MN
-
-## Intro to Python
